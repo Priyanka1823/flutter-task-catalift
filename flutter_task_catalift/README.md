@@ -2,15 +2,23 @@
 
 A new Flutter project.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Clean, responsive cart UI.
+- Dynamic price and discount calculations.
+- Quantity selection with state management.
+- Delivery date calculation.
+- Price summary with coupon discounts and platform fees.
+- Remove, save for later, and buy now actions for cart items.
+- Course details page with title, image, duration, lessons, and add-to-cart feature.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+![ss1](https://github.com/user-attachments/assets/479d30a1-2643-48fc-a7e3-65ae8adfc35e)
+![ss2](https://github.com/user-attachments/assets/01752025-666e-4781-b930-8722212ec88f)
+![ss3](https://github.com/user-attachments/assets/ecc5ea23-71b7-4d81-bb69-3ee55923c2b8)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Demo video
+https://drive.google.com/file/d/12sN60fQg4eenxIcgP1MIzXD0x83gOvYW/view?usp=sharing
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
